@@ -1,9 +1,9 @@
 /** @type {import('tailwindcss').Config} */
 
 const colors = {
-	transparent: twColors.transparent,
+	transparent: '00FFFFFF',
 	black: '#454953',
-	white: twColors.white,
+	white: '#000',
 	secondary: '#161d25',
 	primary: '#FF9902',
 	aqua: '#268697',
